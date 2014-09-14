@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+stockMN
+</name>
+</assembly>
+<members>
+<member name="T:stockMN.ds_kodang_input.kodang_inDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_doc_numberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.accountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_amountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_outDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_amount_updateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_inRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_doc_numberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.accountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_amountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_outRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_amount_updateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_inRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_doc_numberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.accountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_amountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_outRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input.kodang_amount_updateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:stockMN.ds.accountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds.type_usr_fix_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds.condition_updateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds.accountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds.type_usr_fix_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds.condition_updateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds.accountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds.type_usr_fix_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds.condition_updateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:stockMN.ds_sell.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_sell.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_sell.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_sell">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.roomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.year_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.month_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.inputoutput_type_tbDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.roomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.year_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.month_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.inputoutput_type_tbRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_flat_0.roomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_flat_0.year_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_flat_0.month_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_flat_0.inputoutput_type_tbRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_flat_0">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:stockMN.DsforDt.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.DsforDt.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.DsforDt.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.DsforDt">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:stockMN.ds_del.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_del.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_del.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_del">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_amountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_doc_numberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_amount1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.stockDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_amountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_doc_numberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_amount1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.stockRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_amountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_doc_numberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.kodang_amount1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp.stockRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:stockMN.ds_kodang_input_tmp">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>
