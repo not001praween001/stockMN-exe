@@ -5,7 +5,7 @@ Backup stock manager.
 
 Created date: 2007
 
-Get Start
+Getting Start
 =========
 
 1. Download or clone the git.
