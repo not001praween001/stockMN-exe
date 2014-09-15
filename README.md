@@ -16,6 +16,9 @@ Get Start
 
 4. Programe will update DB support version 1.3 in first time.
 
+5. Open and login with your account again.
+
+
 Using this Adminnistrator Account for login
 ===========================================
 
