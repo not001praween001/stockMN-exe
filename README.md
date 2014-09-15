@@ -1,7 +1,7 @@
 stockMN-exe
 ===========
 
-stockMN is a local product trader managing program. It includes easy apartment managemet feature, product selling helper, godown management feature.
+stockMN is a local product trader managing program. It includes easy apartment management feature, product selling helper, godown management feature.
 
 Here is my backup repository and you can clone or download for free. 
 
