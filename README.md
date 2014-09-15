@@ -30,7 +30,7 @@ Pass: admin
 
 .Net Framework Capability Problem resolving method
 ==================================================
-If you have getting some error message something like this "The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine." or "The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.", check your Microsoft Office version and its bit operation support as x64 or x86. Install 'Microsoft Access Database Engine' feastibly on your version engine. 
+If you have getting some error message something like this "The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine." or "The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.", check your Microsoft Office version and its bit operation support as x64 or x86. Install 'Microsoft Access Database Engine' feasible on your version engine. 
 
 [http://www.microsoft.com/en-us/download/details.aspx?id=13255]
 
