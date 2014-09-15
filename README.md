@@ -1,9 +1,11 @@
 stockMN-exe
 ===========
 
-Backup stock manager. 
+stockMN is a local product trader managing program. It includes easy apartment managemet feature, product selling helper, godown management feature.
 
-Created date: 2007
+Here is my backup repository and you can clone or download for free. 
+
+Software Created date: 2007 (Finished and out of supported)
 
 Getting Start
 =========
