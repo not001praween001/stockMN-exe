@@ -12,7 +12,7 @@ Getting Start
 
 1. Download or clone the git.
 
-2. Open stockMN.exe
+2. Open stockMN.exe on 'stockMN-exe/stockMN_1.3.1/x64[or]x86/Release/stockMN.exe'
 
 3. Login to the programe.
 
