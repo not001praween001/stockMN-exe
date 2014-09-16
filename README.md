@@ -10,7 +10,7 @@ Software Created date: 2007 (Finished and out of support)
 Getting Start
 =========
 
-1. Download or clone the git.
+1. [Download](https://github.com/not001praween001/stockMN-exe/archive/master.zip) or clone the git as: $> git clone https://github.com/not001praween001/stockMN-exe.git
 
 2. Open stockMN.exe on 'stockMN-exe/stockMN_1.3.1/x64[or]x86/Release/stockMN.exe'
 
