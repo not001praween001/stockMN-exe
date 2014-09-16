@@ -7,7 +7,7 @@ Here is my backup repository and you can clone or download it for free.
 
 Software Created date: 2007 (Finished and out of support)
 
-Getting Start
+Getting Started
 =========
 
 1. [Download](https://github.com/not001praween001/stockMN-exe/archive/master.zip) or clone the git as: 
