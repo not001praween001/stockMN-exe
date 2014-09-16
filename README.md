@@ -8,7 +8,7 @@ Here is my backup repository and you can clone or download it for free.
 Software Created date: 2007 (Finished and out of support)
 
 Getting Started
-=========
+----------------
 
 1. [Download](https://github.com/not001praween001/stockMN-exe/archive/master.zip) or clone the git as: 
     `$> git clone https://github.com/not001praween001/stockMN-exe.git`
@@ -23,14 +23,14 @@ Getting Started
 
 
 Using this Adminnistrator Account for login
-===========================================
+-------------------------------------------
 
 User: admin
 
 Pass: admin
 
 .Net Framework x.x dose not compatibility itself: The problem solving method
-==================================================
+----------------------------------------------------------------------------
 If you have getting some error message something like this "The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine." or "The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.", check your Microsoft Office version and its bit operation support as x64 or x86. Install 'Microsoft Access Database Engine' feasible on your engine version. [Microsoft Access Database Engine](http://www.microsoft.com/en-us/search/DownloadResults.aspx?q=Microsoft%20Access%20Database%20Engine)
 
 If your system require .net framework 1.1, you can download and install it from 
