@@ -31,7 +31,7 @@ Pass: admin
 
 .Net Framework x.x dose not compatibility itself: The problem solving method
 ==================================================
-If you have getting some error message something like this "The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine." or "The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.", check your Microsoft Office version and its bit operation support as x64 or x86. Install 'Microsoft Access Database Engine' feasible on your version engine. [Microsoft Access Database Engine](http://www.microsoft.com/en-us/search/DownloadResults.aspx?q=Microsoft%20Access%20Database%20Engine)
+If you have getting some error message something like this "The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine." or "The 'Microsoft.Jet.OLEDB.4.0' provider is not registered on the local machine.", check your Microsoft Office version and its bit operation support as x64 or x86. Install 'Microsoft Access Database Engine' feasible on your engine version. [Microsoft Access Database Engine](http://www.microsoft.com/en-us/search/DownloadResults.aspx?q=Microsoft%20Access%20Database%20Engine)
 
 If your system require .net framework 1.1, you can download and install it from 
 [Microsoft .Net framework 1.1](http://www.microsoft.com/en-us/download/confirmation.aspx?id=26)
