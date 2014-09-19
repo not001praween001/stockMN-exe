@@ -17,7 +17,7 @@ Getting Started
 
 3. Login to the programe.
 
-4. Program will update DB support version 1.3 at first time. Close the program when the update is successful.
+4. Program will update DB support version 1.3 at the first time. Close the program when the update has done.
 
 5. Open and login with your account again.
 
